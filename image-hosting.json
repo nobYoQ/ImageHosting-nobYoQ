@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "owner": "YOUR_GITHUB_USERNAME",
+  "repo": "ImageHosting-nobYoQ",
+  "branch": "main",
+  "imagePath": "images/",
+  "delivery": "github"
+}

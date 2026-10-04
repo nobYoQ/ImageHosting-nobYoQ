@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">ImageHosting example</title>
+  <desc id="desc">A test image for checking public image links.</desc>
+  <rect width="960" height="540" rx="24" fill="#102b32"/>
+  <circle cx="815" cy="95" r="150" fill="#19414b"/>
+  <path d="M0 440 245 230 425 410 610 265 960 540H0Z" fill="#2f666d"/>
+  <circle cx="160" cy="128" r="35" fill="#eec66c"/>
+  <text x="72" y="255" fill="#ffffff" font-family="Segoe UI, sans-serif" font-size="56" font-weight="700">ImageHosting</text>
+  <text x="76" y="309" fill="#bde4df" font-family="Segoe UI, sans-serif" font-size="24">GitHub + PicGo / jsDelivr optional</text>
+  <text x="76" y="480" fill="#ffffff" font-family="Segoe UI, sans-serif" font-size="18">Your image link works.</text>
+</svg>

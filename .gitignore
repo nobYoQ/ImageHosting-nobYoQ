@@ -1,0 +1,16 @@
+# PicGo credentials and machine-local generated files
+.local/
+.env
+.env.*
+!.env.example
+data.json
+data.json.*
+picgo*.json
+!picgo*.example.json
+*.log
+*.pem
+*.key
+
+# Operating system files
+Thumbs.db
+.DS_Store
